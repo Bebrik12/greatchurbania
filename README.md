@@ -10,7 +10,7 @@
 
   <?php
 
-echo("GGdd")
+echo("GGdd");
 
 ?>
   
